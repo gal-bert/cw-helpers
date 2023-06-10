@@ -1,0 +1,16 @@
+{
+    "name": "galbert/cw-helpers",
+    "description": "Creative Works Helper Files",
+    "autoload": {
+        "psr-4": {
+            "Galbert\\CwHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gregorius Albert",
+            "email": "galbert.djaja@gmail.com"
+        }
+    ],
+    "require": {}
+}
